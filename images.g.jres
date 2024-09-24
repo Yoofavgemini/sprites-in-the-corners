@@ -1,0 +1,17 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAPAPAAAAAPD///7gRAAA/+/v7k9NAPD/Lv/k/v8A8O/yv9EuQv//4vL+3yRC/y/i8k7dJFIPL+LyTt0kUg//4vL+3yRC//Dv8r/RLkL/8P8u/+T+/wAA/+7v7k9NAADw///+4EQAAAAA8A8AAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "enemy"
+    },
+    "image2": {
+        "data": "hwQQABAAAAAAAADu7u7uDgAA7iIiIu7OAOAiREQk4s4ALkJFIiLuwgAuRCIiIiLOAC4kIjIi4s6AKGJmNiMkzGbod3cmIiLOYIZ3ZyJC4gwAZncmQuLuDABgZyIiIu4MAHZ3Zy7izgBgZ2h35+4MAIAIhnZ3zAAAAACAYGYGAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "heart"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
